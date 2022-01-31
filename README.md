@@ -1,5 +1,10 @@
 # kotlin_sampler
 
+## Whats
+
+- Kotlin基本構文のサンプル集
+- kotlin script(.kts)で実装しているため、コマンドラインから動作確認可能
+
 ## setup
 ``
 $ brew install kotlin

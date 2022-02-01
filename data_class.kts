@@ -7,3 +7,7 @@ println(article)
 // componentNメソッド
 val (url, title, view) = article
 println(title)
+
+// copy
+val copied = article.copy(view = 1)
+println(copied)
